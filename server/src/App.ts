@@ -1,32 +1,31 @@
-
 import express from "express";
-import type { Express } from 'express'
+import type { Express } from "express";
 import { injectable } from "tsyringe";
 
 import routes from "./routes/index.js";
 
 @injectable()
 export class App {
-    private readonly app: Express;
+  private readonly app: Express;
 
-    constructor() {
-        this.app = express();
+  constructor() {
+    this.app = express();
 
-        this.configureMiddlewares();
-        this.configureRoutes();
-    }
+    this.configureMiddlewares();
+    this.configureRoutes();
+  }
 
-    private configureMiddlewares(): void {
-        this.app.use(express.json());
-    }
+  private configureMiddlewares(): void {
+    this.app.use(express.json());
+  }
 
-    private configureRoutes(): void {
-        this.app.use(routes);
-    }
+  private configureRoutes(): void {
+    this.app.use(routes);
+  }
 
-    public start(port: number): void {
-        this.app.listen(port, () => {
-            console.log(`Server running on http://localhost:${port}`);
-        });
-    }
+  public start(port: number): void {
+    this.app.listen(port, () => {
+      console.log(`Server running on http://localhost:${port}`);
+    });
+  }
 }

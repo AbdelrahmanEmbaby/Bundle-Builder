@@ -1,1 +1,359 @@
-{}
+{
+  "products": [
+    {
+      "name": "Wyze Cam v4",
+      "description": "The clearest Wyze Cam ever made.",
+      "category": "camera",
+      "price": 35.98,
+      "discount": 0.22,
+      "thumbnail": "thumbnails/7377c4c026acb3c476e41ccec1e0376490ee2cb9.png",
+      "variants": [
+        {
+          "name": "White",
+          "thumbnail": "thumbnails/483cbb867e0bd5a75fa3ea080af66126b709f997.png",
+          "amount": 20,
+          "id": "141fa43d-bd8c-4931-9652-a4272ccdef4e"
+        },
+        {
+          "name": "Grey",
+          "thumbnail": "thumbnails/2989bafdebb392f5c271645b0aa3977ff131a2f7.png",
+          "amount": 15,
+          "id": "d7d7096e-0c64-4d37-b448-4237159d6038"
+        },
+        {
+          "name": "Black",
+          "thumbnail": "thumbnails/dfa724c811c98887e295ddf6d1b842bf7f555246.png",
+          "amount": 24,
+          "id": "50e9ab61-aa3f-4ff1-9537-03930a2127ef"
+        }
+      ],
+      "id": "b9183cb0-465f-4eb5-9917-3c79fb8dc697"
+    },
+    {
+      "name": "Wyze Cam Pan v3",
+      "description": "360° pan and 180° tilt security camera.",
+      "category": "camera",
+      "price": 39.98,
+      "discount": 0.12,
+      "thumbnail": "thumbnails/6e1650a4902c8e51d612c6363434bb36c8d74688.png",
+      "variants": [
+        {
+          "name": "White",
+          "thumbnail": "thumbnails/a0088c61da6ff66f06d71bdbe9496a53344f2c0e.png",
+          "amount": 20,
+          "id": "e21d89d0-2f28-48d9-92c4-00fe451de66a"
+        },
+        {
+          "name": "Black",
+          "thumbnail": "thumbnails/9635a12db624c130033a4166489f19d4dd442883.png",
+          "amount": 24,
+          "id": "60657c21-dc3a-4a8b-8b18-3b478d15e8b9"
+        }
+      ],
+      "id": "6ef0b541-db41-4f89-9860-7f2771493b07"
+    },
+    {
+      "name": "Wyze Cam Floodlight v2",
+      "description": "2K floodlight camera with a 160° wide-angle view for your garage.",
+      "category": "camera",
+      "price": 89.98,
+      "discount": 0.22,
+      "thumbnail": "thumbnails/96d92fa4f08e0bdd9fa6fd7b1e59231ec3d3d38b.png",
+      "variants": [
+        {
+          "name": "White",
+          "thumbnail": "thumbnails/50a6f9b3cf2a431126be6488ddfca6647e979827.png",
+          "amount": 20,
+          "id": "b38c1269-4f16-471e-bc99-68cbdf852e3c"
+        },
+        {
+          "name": "Black",
+          "thumbnail": "thumbnails/7d83d6ff32c0ddf80e1096fa37910875072ca87a.png",
+          "amount": 24,
+          "id": "d614dbf4-b552-4978-95bf-f191884952f8"
+        }
+      ],
+      "id": "f9a06dbc-0bee-4a80-9417-1d0c32ae7dfa"
+    },
+    {
+      "name": "Wyze Duo Cam Doorbell",
+      "description": "Two cameras. Two views. Double the porch protection.",
+      "category": "camera",
+      "price": 69.98,
+      "discount": 0,
+      "thumbnail": "thumbnails/0d7c4e5400ad8bef25d0ac786f415794250cefd5.png",
+      "variants": [
+        {
+          "name": "Black",
+          "thumbnail": "thumbnails/0d7c4e5400ad8bef25d0ac786f415794250cefd5.png",
+          "amount": 24,
+          "id": "bec07f1e-1e24-4b92-9867-de5d3fbe2769"
+        }
+      ],
+      "id": "27f5962f-9664-491d-b7c2-4f33b8c6d742"
+    },
+    {
+      "name": "Wyze Battery Cam Pro",
+      "description": "Protect anywhere. See everything in 2.5K HDR. No power outlet or electrician needed.",
+      "category": "camera",
+      "price": 69.98,
+      "discount": 0,
+      "thumbnail": "thumbnails/25ced552047f1e871354f9620f3a60c5948b3b1a.png",
+      "variants": [
+        {
+          "name": "White",
+          "thumbnail": "thumbnails/25ced552047f1e871354f9620f3a60c5948b3b1a.png",
+          "amount": 20,
+          "id": "cbdd6ed8-5d86-4182-a7e6-87033e6d98ea"
+        },
+        {
+          "name": "Black",
+          "thumbnail": "thumbnails/5a86d03ace4842214c1d63d582b0c618fc4bdedf.png",
+          "amount": 24,
+          "id": "5f2f853a-74aa-4c0b-be2b-61ade91c8197"
+        }
+      ],
+      "id": "366e0c93-f4e9-4360-8540-53f88b6c8512"
+    },
+    {
+      "name": "Wyze Sense Motion Sensor",
+      "description": "",
+      "category": "sensor",
+      "price": 29.99,
+      "discount": 0,
+      "thumbnail": "thumbnails/c5d210d5bb593396f4f1f51b5f3538c79613ef44.png",
+      "variants": [
+        {
+          "name": "White",
+          "thumbnail": "thumbnails/c5d210d5bb593396f4f1f51b5f3538c79613ef44.png",
+          "amount": 20,
+          "id": "037a62dd-c830-4d81-9735-0014e3bc06bb"
+        }
+      ],
+      "id": "05cae1b0-0849-404d-a0f7-b65723a35185"
+    },
+    {
+      "name": "Wyze Sense Hub",
+      "description": "",
+      "category": "sensor",
+      "price": 29.99,
+      "discount": 0,
+      "thumbnail": "thumbnails/822f111b8d7505688a09b4d01cc536f6f009a8cd.png",
+      "variants": [
+        {
+          "name": "White",
+          "thumbnail": "thumbnails/822f111b8d7505688a09b4d01cc536f6f009a8cd.png",
+          "amount": 20,
+          "id": "0b3781ce-0da9-45dd-9ae7-2fdff4996eb7"
+        }
+      ],
+      "id": "1fbc06e9-5c59-4a69-8704-d8e822ce89a2"
+    },
+    {
+      "name": "Wyze MicroSD Card (256GB)",
+      "description": "",
+      "category": "accessory",
+      "price": 20.98,
+      "discount": 0,
+      "thumbnail": "thumbnails/9f076fc4511198593abbc00cec845119c27f4406.png",
+      "variants": [
+        {
+          "name": "Black",
+          "thumbnail": "thumbnails/9f076fc4511198593abbc00cec845119c27f4406.png",
+          "amount": 20,
+          "id": "bec74d9e-c1d9-4c36-8389-32fd1bd10bc6"
+        }
+      ],
+      "id": "b4613de8-022c-4d70-89b9-a993d1276a43"
+    },
+    {
+      "name": "Wyze Outdoor Power Adapter",
+      "description": "Weather-resistant power adapter for compatible Wyze cameras.",
+      "category": "accessory",
+      "price": 14.99,
+      "discount": 0,
+      "thumbnail": "thumbnails/7c0fd2d8e7b83d2fb847a2fb7e2d1f0bc54eac8a.png",
+      "variants": [
+        {
+          "name": "White",
+          "thumbnail": "thumbnails/7c0fd2d8e7b83d2fb847a2fb7e2d1f0bc54eac8a.png",
+          "amount": 20,
+          "id": "c7e9c233-1cf5-44a0-bf28-6ddefca9e6fb"
+        }
+      ],
+      "id": "85802aa7-6b37-4b9b-8593-a61731c39d75"
+    },
+    {
+      "name": "Wyze Cam Mounting Kit",
+      "description": "Wall and ceiling mounting accessories.",
+      "category": "accessory",
+      "price": 12.99,
+      "discount": 0,
+      "thumbnail": "thumbnails/b5c2c2e8b0d1d5d5d9fd7f77b7cbcb8b88d0b8c4.png",
+      "variants": [
+        {
+          "name": "White",
+          "thumbnail": "thumbnails/b5c2c2e8b0d1d5d5d9fd7f77b7cbcb8b88d0b8c4.png",
+          "amount": 15,
+          "id": "e37f1c0d-c56e-4d65-b8a9-d5f921a7ebe9"
+        },
+        {
+          "name": "Black",
+          "thumbnail": "thumbnails/b5c2c2e8b0d1d5d5d9fd7f77b7cbcb8b88d0b8c4.png",
+          "amount": 15,
+          "id": "ca77d1ca-e204-45e3-939c-925dc145b56a"
+        }
+      ],
+      "id": "fc40e08a-14b9-440f-bc9d-c9c0b4594944"
+    },
+    {
+      "name": "Wyze Removable Battery Pack",
+      "description": "Rechargeable replacement battery for Wyze Battery Cam Pro.",
+      "category": "accessory",
+      "price": 19.99,
+      "discount": 0.1,
+      "thumbnail": "f3d9e2d4bc1e8d56a9c84d0fbb6d1d1fca4a8d39.png",
+      "variants": [
+        {
+          "name": "Standard",
+          "thumbnail": "thumbnails/f3d9e2d4bc1e8d56a9c84d0fbb6d1d1fca4a8d39.png",
+          "amount": 30,
+          "id": "683f61c3-fa14-4dee-aac6-8a26bf3633af"
+        }
+      ],
+      "id": "ad6c38af-92eb-431d-8817-4a2d7a5048ee"
+    },
+    {
+      "name": "Wyze Cam USB Extension Cable (20ft)",
+      "description": "Extended USB power cable for flexible camera installation.",
+      "category": "accessory",
+      "price": 9.99,
+      "discount": 0,
+      "thumbnail": "thumbnails/91ab4f3d8df51e10d8b5d95a7f94bc0db3a28f67.png",
+      "variants": [
+        {
+          "name": "White",
+          "thumbnail": "thumbnails/91ab4f3d8df51e10d8b5d95a7f94bc0db3a28f67.png",
+          "amount": 25,
+          "id": "4fdecb07-8ffb-4f1b-9870-d24f0d6cb70e"
+        }
+      ],
+      "id": "0020c46b-7947-41cf-90d0-a7aef7b8a180"
+    },
+    {
+      "name": "Wyze Cam Window Mount",
+      "description": "Mount your camera directly to a window for a clearer outdoor view.",
+      "category": "accessory",
+      "price": 15.99,
+      "discount": 0.05,
+      "thumbnail": "thumbnails/63a5fdb1f9fbb47d78f0ef4c6b15d812ac3b7c42.png",
+      "variants": [
+        {
+          "name": "Transparent",
+          "thumbnail": "thumbnails/63a5fdb1f9fbb47d78f0ef4c6b15d812ac3b7c42.png",
+          "amount": 18,
+          "id": "8baa2120-ce3a-4d4b-911f-6f463ab19569"
+        }
+      ],
+      "id": "a4ae09a6-52a4-4945-a066-ac8583d60cf1"
+    }
+  ],
+  "plans": [
+    {
+      "name": "Starter",
+      "price": 2.99,
+      "discount": 0,
+      "id": "59b7fba0-b313-4efb-990c-df5a2c3420db"
+    },
+    {
+      "name": "Plus",
+      "price": 6.99,
+      "discount": 0.15,
+      "id": "7a690594-f04c-4795-be6f-829b44914eed"
+    },
+    {
+      "name": "Unlimited",
+      "price": 12.99,
+      "discount": 0.23,
+      "id": "d70a9780-2acb-4bb8-9e97-d21ee2ba8d8b"
+    },
+    {
+      "name": "Business",
+      "price": 24.99,
+      "discount": 0.3,
+      "id": "48205f9b-0967-4b5c-834a-0294a1006c6a"
+    }
+  ],
+  "protections": [
+    {
+      "name": "Extended Warranty",
+      "description": "Extend your manufacturer's warranty by 2 years.",
+      "icon": "shield",
+      "recommended": true,
+      "pricing": {
+        "type": "one-time",
+        "price": 9.99
+      },
+      "id": "a326b42c-67b3-44dd-89d9-b1f9d34d5839"
+    },
+    {
+      "name": "Accidental Damage Protection",
+      "description": "Covers accidental drops, impacts, and liquid damage.",
+      "icon": "shield-alert",
+      "recommended": false,
+      "pricing": {
+        "type": "one-time",
+        "price": 14.99
+      },
+      "id": "41fc1f54-be45-4fa6-b629-d5b5f833e5b5"
+    },
+    {
+      "name": "Theft Protection",
+      "description": "Receive a replacement device if your camera is stolen.",
+      "icon": "lock",
+      "recommended": false,
+      "pricing": {
+        "type": "subscription",
+        "price": 7.99,
+        "period": "monthly"
+      },
+      "id": "492025b2-05ba-4c1a-b590-990ea183d186"
+    },
+    {
+      "name": "Express Replacement",
+      "description": "Get a replacement shipped immediately after an approved claim.",
+      "icon": "fast-shipping",
+      "recommended": false,
+      "pricing": {
+        "type": "subscription",
+        "price": 5.99,
+        "period": "monthly"
+      },
+      "id": "054dcdd0-e640-4325-8e2c-fe4840dda168"
+    },
+    {
+      "name": "Premium Technical Support",
+      "description": "Priority access to Wyze technical support specialists.",
+      "icon": "headset",
+      "recommended": false,
+      "pricing": {
+        "type": "subscription",
+        "price": 3.99,
+        "period": "monthly"
+      },
+      "id": "8d03b389-0345-42f1-bae4-6b7cd7d14234"
+    },
+    {
+      "name": "Battery Replacement Coverage",
+      "description": "Free battery replacement during the protection period.",
+      "icon": "battery",
+      "recommended": false,
+      "pricing": {
+        "type": "subscription",
+        "price": 4.99,
+        "period": "monthly"
+      },
+      "id": "e45f5176-a98b-4c32-948a-0cf69dda3f5e"
+    }
+  ]
+}
