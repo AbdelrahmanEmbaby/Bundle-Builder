@@ -5,13 +5,15 @@ import { ImageService } from "../services/image.service.js";
 
 @injectable()
 export class ImageController {
-    constructor(
-        private readonly service: ImageService
-    ) {}
+  constructor(private readonly service: ImageService) {}
 
-    public getImage = (req: Request, res: Response): void => {
-        const file = this.service.getImagePath(String(req.params.path));
+  public getImage = (req: Request, res: Response): void => {
+    const imagePath = Array.isArray(req.params.path)
+      ? req.params.path.join("/")
+      : req.params.path;
 
-        res.sendFile(file);
-    };
+    const file = this.service.getImagePath(String(imagePath));
+
+    res.sendFile(file);
+  };
 }
